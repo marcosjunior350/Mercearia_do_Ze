@@ -3,6 +3,8 @@
 A ideia desse formulário é somente explorar outros controles que não foram utilizados no projeto anterior. Além do formulário, temos uma base de dados na qual os produtos e os clientes fictícios da mercearia estão registrados e também uma guia de cadastro 
 para registrar as compras feitas.
 
+[![Veja o projeto em ação](https://youtube.com)](https://www.youtube.com/watch?v=KdFxoOXPlD4&list=PLKefA-6NcYLTm-bl23V8PNm9o8Vh3d4GA&index=5)
+
 ### Observações importantes
 
 Antes de falarmos das fórmulas e dos controles que foram usados, é importante comentar como os cálculos foram feitos.  
